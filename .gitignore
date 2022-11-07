@@ -1,11 +1,11 @@
 # logs
-.log
-.txt
+*.log
+*.txt
 
 # buffer
-.e3i
-.e3o
+*.e3i
+*.e3o
 
 # lock
-.ldb
+*.ldb
 
